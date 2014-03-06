@@ -5,7 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Config" Type="Folder">
-		<Item Name="Encoder Converter.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/Devices/EncoderConverter/Config/Encoder Converter.ctl"/>
+		<Item Name="EncoderConverter.ctl" Type="VI" URL="/&lt;userlib&gt;/Common/Devices/EncoderConverter/Config/EncoderConverter.ctl"/>
 	</Item>
 	<Item Name="EncoderConverter" Type="Folder">
 		<Item Name="EncoderConverter.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Common/Devices/EncoderConverter/EncoderConverter/EncoderConverter.lvclass"/>
